@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5459f73b-5839-4ccf-bcc9-d17843edba89)
+
 **EVM Wallet Registration for Plume Project Airdrop** (https://registration.plumenetwork.xyz/)
 
 Channel: https://t.me/shrimp_to_whale
