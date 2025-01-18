@@ -13,4 +13,4 @@ Channel: https://t.me/shrimp_to_whale
 **Files that need to be filled out**
 
 `Privates.txt` - Private keys of your accounts.
-`Proxies.txt` - proxies in the format api:port:login:password format.
+`Proxies.txt` - proxies in the api:port:login:password format.
