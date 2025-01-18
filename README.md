@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5459f73b-5839-4ccf-bcc9-d17843edba89)
+![image](https://github.com/user-attachments/assets/4867f786-1dcc-45f5-bebe-0e7503313c5a)
 
 **EVM Wallet Registration for Plume Project Airdrop** (https://registration.plumenetwork.xyz/)
 
